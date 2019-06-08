@@ -1,0 +1,1 @@
+In this project, i got the opportunity to interact with my Rails application from the command line by manually sending request. The application is very basic since the objective is to make request from the command line using the RestClient gem.
